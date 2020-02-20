@@ -1,0 +1,23 @@
+{
+  "name": "natures-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahyualfarisi/Natures-project.git"
+  },
+  "author": "wahyu alfarisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahyualfarisi/Natures-project/issues"
+  },
+  "homepage": "https://github.com/wahyualfarisi/Natures-project#readme"
+}

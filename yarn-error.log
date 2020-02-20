@@ -1,0 +1,46 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn --h
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin
+
+Yarn version: 
+  1.9.4
+
+Node version: 
+  12.4.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EACCES: permission denied, rmdir '/Users/wahyu/Documents/CSS/Natures-project/node_modules/.bin'
+
+npm manifest: 
+  {
+    "name": "natures-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/wahyualfarisi/Natures-project.git"
+    },
+    "author": "wahyu alfarisi",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/wahyualfarisi/Natures-project/issues"
+    },
+    "homepage": "https://github.com/wahyualfarisi/Natures-project#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
