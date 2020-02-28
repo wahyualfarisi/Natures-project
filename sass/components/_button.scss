@@ -10,7 +10,7 @@
 
         position: relative;
     }
-
+    
     &:hover {
         transform: translateY(-3px);
         box-shadow: 0 1rem 2rem rgba($color-black, 0.2);
@@ -51,6 +51,7 @@
         }
     }
 
+    
     &--animated {
         animation-name: moveInBottom;
         animation-duration: 0.8s;
