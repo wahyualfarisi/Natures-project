@@ -13,11 +13,14 @@
 @import 'components/feature-box';
 @import 'components/story';
 @import 'components/card';
-@import 'components/bg-video';
 @import 'components/form';
+@import 'components/bg-video';
+
 
 
 @import 'layout/header';
+@import 'layout/navigation';
+@import 'layout/footer';
 @import 'layout/grid';
 @import 'pages/home';
 
